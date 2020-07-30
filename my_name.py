@@ -5,7 +5,7 @@
 
 
 def main():
-    name = 'Qu JunJie'
+    name = 'William Sherlock Scott Holmes'
     print(name)
 
 if  __name__ == '__Main__':
